@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadFile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_download">下载</string>
+</resources>
